@@ -11,9 +11,18 @@ In this project, you will be able to generate a QR Code Image in your current fo
 
 ## What you will need to run the project
 
+If you need help to install the technologies below, you can click here to go to the 
+**(How to install)[#how-to-install]** section
+
 - Python3 (programming language)
 - PIP (python package manager)
-- QR Code (module - )
+- QR Code (module)
+
+## ⬇ How to install
+
+- Python3 [Python Download](https://www.python.org/downloads/)
+- PIP (comes with Python)
+- QR Code [QR Code - Module](https://pypi.org/project/qrcode/)
 
 ## 💻 How to use the project
 
